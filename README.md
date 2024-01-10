@@ -5,7 +5,7 @@ Sou estudante de ciências da computação na Universidade Federal de Campina Gr
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" height="60" width="50" >
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" height="100" width="100" >
 
 
 
