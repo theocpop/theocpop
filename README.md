@@ -1,6 +1,7 @@
 ### ABOUT ME 
 
 Sou estudante de ciências da computação na Universidade Federal de Campina Grande(UFCG)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -11,15 +12,6 @@ Sou estudante de ciências da computação na Universidade Federal de Campina Gr
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" height="80" width="80">
 
 </div>
----
-
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-theocpop
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
 <!--
 **theocpop/theocpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
