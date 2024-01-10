@@ -1,4 +1,7 @@
-### Hi there 👋
+### ABOUT ME 
+
+Théo Rodrigues
+Sou estudante de ciências da computação na Universidade Federal de Campina Grande(UFCG), atualmente interessado em áreas diversas 
 
 <!--
 **theocpop/theocpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
