@@ -1,7 +1,6 @@
 ### ABOUT ME 
 
 Sou estudante de ciências da computação na Universidade Federal de Campina Grande(UFCG)
-🌱 estou atualmente aprendendo(I’m currently learning):
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -12,6 +11,10 @@ Sou estudante de ciências da computação na Universidade Federal de Campina Gr
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" height="80" width="80">
 
 </div>
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-theocpop
 
 
 
