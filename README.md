@@ -1,7 +1,13 @@
 ### ABOUT ME 
 
-Théo Rodrigues
-Sou estudante de ciências da computação na Universidade Federal de Campina Grande(UFCG), atualmente interessado em áreas diversas 
+Sou estudante de ciências da computação na Universidade Federal de Campina Grande(UFCG)
+🌱 estou atualmente aprendendo(I’m currently learning):
+---
+
+### :hammer_and_wrench: Languages and Tools :
+https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg
+
+
 
 <!--
 **theocpop/theocpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
