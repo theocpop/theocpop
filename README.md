@@ -4,7 +4,7 @@
 
 ### ABOUT ME 
 
-Estudante de ciências da computação na Universidade Federal de Campina Grande(UFCG) buscando experiências diversas na área das tecnologias
+Estudante de ciências da computação na Universidade Federal de Campina Grande(UFCG) e aberto a experiências em diversas áreas.
 
 ---
 
