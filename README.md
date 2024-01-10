@@ -1,6 +1,10 @@
+### Théo Rodrigues
+
+---
+
 ### ABOUT ME 
 
-Sou estudante de ciências da computação na Universidade Federal de Campina Grande(UFCG)
+Estudante de ciências da computação na Universidade Federal de Campina Grande(UFCG) buscando experiências diversas na área das tecnologias
 
 ---
 
